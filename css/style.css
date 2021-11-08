@@ -1,24 +1,70 @@
+body{
+    background-color:wheat;
+}
+
 header{
     background-color: black;
-    color: white;
     
 }
 
+.texto1{
+    color: white;
+    
+}
 .lenguaje{
-    padding-left: 1100px;
-    padding-top: 100px;
+    ;
 }
 
-.logo_principal{
-
-}
-
-header p{
+.arg{
+    color:white;
     margin: 20px;
 }
+.logo_principal{
+    width: 300px;
+    margin: 30px;
+}
 
-
-
-nav {
+nav{
     background-color: orange;
+
+}
+
+nav ul{ 
+    float: right;
+    list-style-type: none;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+nav li{
+    float: left;
+    padding-right: 30px;
+    margin: 5px;
+    text-align: center;
+}
+
+nav a{
+    color: cornsilk;
+    text-align: center;
+} 
+
+
+li a:link{
+    text-decoration:none;
+    color: bisque;
+    font-family: 'Roboto', sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+li a:hover{
+    text-align: center;
+    background-color:chocolate;
+    color: black;
+    padding: 5px ;
+}
+
+.portada{
+    
 }
