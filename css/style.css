@@ -1,0 +1,24 @@
+header{
+    background-color: black;
+    color: white;
+    
+}
+
+.lenguaje{
+    padding-left: 1100px;
+    padding-top: 100px;
+}
+
+.logo_principal{
+
+}
+
+header p{
+    margin: 20px;
+}
+
+
+
+nav {
+    background-color: orange;
+}
